@@ -15,9 +15,10 @@ The build is based on:
 The following PRs and commits are currently merged into this build:
 
 <!-- MERGE-LIST-START -->
-https://github.com/openjdk/jfx/pull/2346
+https://github.com/openjdk/jfx/pull/2362
 https://github.com/openjdk/jfx/pull/2329
 https://github.com/openjdk/jfx/pull/2284
+https://github.com/crschnick/jfx/tree/css-reuse-optin
 <!-- MERGE-LIST-END -->
 
 The artifacts are built with the following additional properties:
